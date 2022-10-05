@@ -18,11 +18,8 @@
 
 ###
 
-<div align="left">
-  <a href="www.discord.com/users/135350257151115264" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="omaralthani5@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:omaralthani5@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/omar-al-thani-667978223/" target="_blank">
@@ -40,6 +37,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/omarkhalidbt47/count.svg?"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="119" src="https://i.postimg.cc/W1zPGgkv/ds-Buffer-bmp.png"  />
 </div>
 
 ###
