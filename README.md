@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 Computing security student seeking an internship/co-op to utilize and develop skills such as systems administration, risk assessment, programming, and security evaluation.
-
+![](https://komarev.com/ghpvc/?omarkhalidbt47)
 * 🌍  I'm based in Dubai, United Arab Emirates.
 * ✉️  You can contact me at [omaralthani5@gmail.com](mailto:omaralthani5@gmail.com)
 * 🧠  I'm learning Bash and Python scripting!
