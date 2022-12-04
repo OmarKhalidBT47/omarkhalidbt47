@@ -16,6 +16,10 @@ Computing security student seeking an internship/co-op to utilize and develop sk
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
+<a href="http://www.egr.unlv.edu/~ed/x86.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" width="36" height="36" alt="x86 Assembly" /></a>
+</p>
+
+
 
 
 ### Socials
